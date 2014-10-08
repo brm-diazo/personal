@@ -1,1 +1,2 @@
 esto es una prueba 1
+prueba manejando otro usuario
